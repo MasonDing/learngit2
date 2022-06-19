@@ -1,1 +1,2 @@
 Hello file for the bug brach test.
+Change hello for conflicts.
