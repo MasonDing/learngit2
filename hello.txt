@@ -1,1 +1,2 @@
 Hello file for the bug brach test.
+It is very interesting.
