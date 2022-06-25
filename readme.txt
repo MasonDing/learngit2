@@ -6,4 +6,3 @@ Creating a new branch is quick and simple.
 switch off fast forward.
 Bug branch test.
 some updatess.
-
