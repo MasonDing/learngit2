@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 switch off fast forward.
 Bug branch test.
+try conflicts.
